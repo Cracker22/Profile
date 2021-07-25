@@ -1,2 +1,3 @@
 # Profile
-A simple portfolio 
+A simple portfolio  
+Geart working 
